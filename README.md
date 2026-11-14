@@ -32,14 +32,14 @@
 ---
 
 ###  Technologies & Tools
-![C++]
-![Java]
-![HTML5]
-![CSS3]
-![JavaScript]
-!Spring/SpringBoot]
-![Python]
-![MysQl]
+[C++]
+[Java]
+[HTML5]
+[CSS3]
+[JavaScript]
+[Spring/SpringBoot]
+[Python]
+[MysQl]
 
 
 ---
@@ -49,9 +49,9 @@
 
 ###  Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Rahma1972)
-!rahmatobji70@gmail.com ,
-!rahma.tobji@enicar.ucar.tn
+rahmatobji70@gmail.com ,
+rahma.tobji@enicar.ucar.tn
 
 ---
 
-*Always learning, always improving.*
+
