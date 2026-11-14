@@ -2,7 +2,7 @@
 
  Computer Engineering Student at **ENICarthage**   
  Interested in **Software Development**, **Networking**, and **Web Technologies**  
- From **Djerba, Tunisia** 🌊
+ From **Tunisia** 
 
 ---
 
