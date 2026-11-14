@@ -20,8 +20,8 @@
 
 ---
 
-### 🚀Projects
-📌 Academic and personal projects related to:
+### Projects
+ Academic and personal projects related to:
 - C / C++ Object-Oriented Programming
 - Data Structures & Algorithms
 - Web & Mobile Applications
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚡ Technologies & Tools
+###  Technologies & Tools
 ![C++]
 ![Java]
 ![HTML5]
@@ -49,9 +49,9 @@
 
 ###  Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Rahma1972)
-![rahmatobji70@gmail.com]
-![rahma.tobji@enicar.ucar.tn]
+!rahmatobji70@gmail.com ,
+!rahma.tobji@enicar.ucar.tn
 
 ---
 
-✨ *Always learning, always improving.*
+*Always learning, always improving.*
