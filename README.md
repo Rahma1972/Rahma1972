@@ -22,6 +22,7 @@
 
 ### Projects
  Academic and personal projects related to:
+ 
 -Spring/SpringBoot
 -Java 
 - C / C++ Object-Oriented Programming
